@@ -1,0 +1,15 @@
+Day-0 (30 June, 2016)
+
+This is team l1ghtsab3r signing in.
+Beginning with introductions, the 
+Students: Soumya Sharma, Srishti Sengupta.
+Mentors: Anuvrat Parashar, Manish Goregaokar, Chiang Fong Lee, Sambhav Satija, Naman Gupta
+Coach: Russell Keith Maggee
+Supervisor: Natalie
+
+We were eager to kick off the RGSoC session and had been talking to our mentors and coaches from some time, trying to figure out the organizational needs of our SOC period. However we were still unsure about some aspects of it. We chose a time for our conference call and were all online at the time on hangouts. The call helped us clear all our doubts about the how, why and when about the program. About the role of every member and what exactly was required of us students. We discussed our project requirements with Russell and what we would be starting our work on. We talked about the mentors about our expectations from them and their expectations from us.
+All in all, it was a good talk. One that got us ready and prepared for the official kickoff.
+Tomorrow, we start! :D
+
+Until the next time,
+Team l1ghtsab3r 

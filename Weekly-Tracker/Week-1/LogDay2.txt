@@ -1,0 +1,13 @@
+Day-2 (02 July, 2016)
+
+Completed the following tasks:
+
+[] ne method for float
+[] 
+
+Finally, we started coding. We were able to finish the work listed above. We feel that we are still raw while writing code. Switching every line to the python datatype object and using it's method takes us a little time. We have to scout the datatypes and it's properly. Hopefully, a few days of work should help us out in this front and we should become more used to using these methods.
+For every method we work on, we first run a few tests of our own on python and see how the method behaves. If there are some aspects we are unable to understand we look at the cpython implementation of it. Once we are clear of the approach we wish to use, we start our coding. We then run some tests and make sure that there are no bugs left. Then just commit and push!
+
+Tomorrow, we'll be tackling 
+
+- Team l1ghtsab3r

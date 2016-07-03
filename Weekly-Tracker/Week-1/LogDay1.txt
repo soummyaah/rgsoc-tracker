@@ -1,0 +1,30 @@
+Day-1 (01 July, 2016)
+
+l1ghtsab3r team go!
+
+Day 1 marked our official kickoff and we were so excited. We had discussed what problems we would be tackling and what we would be starting with. A conference call with all members a day before had us all pumped up. Seeing the other teams so enthuthiastic we got even more excited about starting work.
+
+We had already set up our environments during the application process. However, we were missing out on the test suite. Both of us were being faced with the same problem.
+I'll go into a little technical detail here. The error 'module' object has no attribute 'test_codecs'. We searched a lot but couldn't find a solution. We pinged our mentor Sambhav, who came to the rescue. He told us that test_codecs was a standard file that is usually installed along with some standard libraries. However, our version of python seemed to be missing it. This error only seemed to arise while using virtualenv
+
+He suggested we proceed in the following steps:
+1. cd ~/<anywhere>
+2. mkdir pysource
+3. wget https://www.python.org/ftp/python/3.4.2/Python-3.4.2.tgz
+4. tar -zxvf Python-3.4.2.tgz
+5. cd Python-3.4.2.tgz
+6. mkdir .install
+7. ./configure --prefix=$PWD/.install
+8. make
+9. make install
+10. cd ~/your_dev_space
+11. virtualenv -p ~/<anywhere>/pysource/Python-3.4.2/.install/bin/python3.4 env
+12. . env/bin/activate
+13. Do pip install -e . and ant java
+14. python setup.py test
+
+We would be adding these steps to the VOC documentation for others to take benefit of.
+
+Our first day was spent in resolving this problem and though we couldn't start coding, we were excited to get started.
+
+- Team l1ghtsab3r
