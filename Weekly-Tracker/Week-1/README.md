@@ -1,16 +1,16 @@
 To do for Week-1 (01 July - 08 July)
 
-[] Float
-	[x] ne
-	[] round
-	[] pow
-[] String
-	[]  contains
-[] Bool
-	[] neg
-	[] pos
-	[] invert
-[] Dict
+ - [] Float
+	 - [x] ne
+	 - [] round
+	 - [] pow
+ - [] String
+	 - []  contains
+ - [] Bool
+	 - [] neg
+	 - [] pos
+	 - [] invert
+ - [] Dict
 	- [] iter
 	- [] copy
 	- [] fromkeys
@@ -22,7 +22,7 @@ To do for Week-1 (01 July - 08 July)
 	- [] setdefault
 	- [] update
 	- [] values
-[] List
+ - [] List
 	- [] reversed
 	- [] contains
 	- [] copy
@@ -30,5 +30,5 @@ To do for Week-1 (01 July - 08 July)
 	- [] pop
 	- [] remove
 	- [] sort
-[] dir methods of each type.
+ - [] dir methods of each type.
 
