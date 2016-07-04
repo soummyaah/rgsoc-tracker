@@ -2,7 +2,7 @@ To do for Week-1 (01 July - 08 July)
 
  - [] Float
 	 - [x] ne
-	 - [] round
+	 - [x] round
 	 - [] pow
  - [] String
 	 - []  contains

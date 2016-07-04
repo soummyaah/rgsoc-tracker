@@ -1,0 +1,16 @@
+Day-3 (03 July, 2016)
+
+Completed the following tasks:
+
+[x] round without ndigits method for float
+[] round with ndigits method for float
+
+Completed the without ndigits part of round. Referred to CPython to
+see how exactly it works. Took fedback from mentors. For ndigits part,
+more research on implementation required. :/
+
+Tomorrow, we'll be tackling the ndigits portion of Float and the
+contains method of String. We would also be looking into the List and
+Dict datatypes.
+
+- Team l1ghtsab3r

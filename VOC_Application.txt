@@ -1,0 +1,58 @@
+Q. Please tell us a little bit about yourself. What is your background?
+
+A. At the time of filling this application, I am finishing my junior year as an undergrad at IIIT-Delhi. I've had tons of prior experience with working on ideas and building a product out of them. I've been to multiple hackathons and won quite a few. My personal interests include studying about core AI and Data Analysis. I've dabbled in multiple domains of the CS stream, including security competitions(Microsoft Build The Shield Finalist), competitive Programming(Google Code Jam for Women winner). I am currently working on a research project under a professor wherein we are working on k Nearest Neighbors of Spatial and Textual Domain. I am an organized and sincere person who likes to persistently work at a problem until I find a solution for it.
+
+Q. How did you get into programming?
+
+A. Like everyone, I started designing HTML pages(and winning a couple of prestigious competitions, to boot). However, the first time I tasted programming was a couple of years before coming to college. I merely considered it as a tool for doing mathematical computations. My first introduction to programming lecture in college was when I really found myself realizing that I thought I knew something when in reality I didn't. The sheer enormity of solutions that programming provides and the complexities associated with them were a mind opener. Since then, I've grown to love and embrace the challenges that programming provides.
+
+Q. Please give us a short summary of your programming skills
+
+A. I am well versed in Python and Java. I recently got through 2/3 rounds of Google internship rounds where Java was my primary language. I am the 113rd women all over the world and the 6th in India to have won Google Code Jam for Women 2016. My primary language of coding for that competition was Python. My affair with Python started when I created a snake game with GUI in Python in my first year.
+I am well versed in Flask and Django. I have created multiple portals for hackathons and for pet projects. One such portal was a lifelogger application which could be doubled up as a chrome extension for a new tab.
+I am also well versed with Android. I am currently enrolled in Udacity Nanodegree programme sponsored by Google. I have created multiple Android applications for hackathons and have experience with creating a polished app up til deployment. This was an app for the cultural fest of IIIT-D: https://play.google.com/store/apps/details?id=com.iiitd.esya.app&hl=en.
+
+Q. Tell us about your community involvement.
+
+A. I am an active member of Women Who Code(Delhi chapter) and have been attending meetups for a long time now. I started interacting with the community a year ago and have been attending multiple workshops and meetups since then. I have been actively involved with the women techmakers. I was recently one of the winners of Google Code Jam for Women and am being sponsored by Google to attend the Google I/O conference in May. Rails Girls and similar organizations has never been active in northern India, where I reside. Only recently organizations like Women Who Code and Pyladies have started their chapters in Delhi and other parts of India.
+
+Q. Please summarize what you have been doing to learn programming since your first workshop
+
+A. I have been attending hackathons, learning new technologies and keeping myself updated with the tech community. I've been working towards contributing to open source, a few PRs mentioned in the next field. I spend a lot of time working on pet projects, trying to create innovative solutions to problems I think are important.
+
+Q. Please link to pull requests you have done or other examples of your coding on GitHub or elsewhere.
+
+A. https://github.com/pydsa/pydsa/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Asoummyaah
+https://github.com/pybee/voc/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Asoummyaah
+https://github.com/pydsa/pydsa-viz-examples/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Asoummyaah
+
+Q. What do you want to achieve by the end of the summer?
+
+A. I would love to use this summer opportunity to improve my programming skills. The projects that I've chosen are mentored by people who inspire me a lot and have a reputation for being good software developers in the community. Our coaches are people who we feel would be able to teach us a lot. My personal aims for the summer are to become well versed with open source contribution. I wish to contribute to a project that would make a difference and something that would be used by the tech community. By the end of this summer, I wish to grow, as a person and a programmer. I wish to establish networks in the open source community by being a part of one of the most amazing programs for Women in Open Source.
+
+Q. Why are you applying to this program, and what do you think you can give back? (Please don't mention your name, age, or current location.)
+
+A. I have been trying to contribute to open source projects for the past 2-3 months. Every time I attempted to understand the huge code bases of popular frameworks, it seemed too vast and intimidating. With RGSoC, I was able to overcome my trepidation and start looking at and understanding the code bases and architectures of the organizations.
+
+With this positive experience, I started contacting the collaborators of these projects and they were pleasantly helpful. I've always had an interest in the python language and the core internals. VOC as a project is something that would require me to learn about the internal implementations of Python language extensively. Even though this is an extremely challenging task, this is something that I'd love to face.
+
+RGSoC has been the first initiative wherein I started putting in efforts to contribute to open source. The organizations that are selected for RGSoC are exciting and challenging enough to work on them for 3 months. I found the mentors of all the organizations to be extremely helpful and had difficulty in deciding which projects I wished to work on. One of the best things I liked about RGSoC was it's focus on encouraging communication between the participants and their mentors. As participants and newbies to the open source contribution, we got to interact with some very respectable contributors. Talking to them and discussing approaches to problems has been uplifting and a very encouraging experience.
+
+RGSoC has, in a way, opened us to a completely new domain and friendly atmosphere that we were hesitant to get into. Even though we might not get selected, this has been an enriching experience and I would be now more open to participating in open source development.
+
+I believe this is the starting of my journey as an active open source contributor. I would love to use this experience to improve my skills and perhaps, down the line, be a mentor/coach for someone who is as clueless as we were. I would love to use this opportunity to contribute not just to the organizations that I have applied for, but for every organization that caught my eye.
+
+Q. How much money, in USD, do you need per month to sustain yourself while working fulltime on an Open Source project?
+
+A. 700
+
+Q. If needed, you can use this field to break down your costs for us, or point out any special circumstances which require a higher budget than what you've selected above or than what is usual for your city.
+
+A. $220: Rent
+$75: Water, Sanitation, Electricity bill
+$75: Travelling
+$200: Everyday food. One meal costs about $2.25.
+$100: Groceries.
+
+I would be living in a single room flat near my institute. As I would be living on my own, I would be required to pay the water, sanitation and electricity bills separately.  Good hygienic food in India costs about $2.25 per meal. Keeping in mind that I would be consuming 3 meals a day, the total cost for food comes out to be $200. Groceries such as healthy fruits, juice etc would cost about $100 per month.
+
