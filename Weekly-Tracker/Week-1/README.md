@@ -7,9 +7,9 @@ To do for Week-1 (01 July - 08 July)
  - [] String
 	 - []  contains
  - [] Bool
-	 - [] neg
-	 - [] pos
-	 - [] invert
+	 - [x] neg
+	 - [x] pos
+	 - [x] invert
  - [] Dict
 	- [] iter
 	- [] copy

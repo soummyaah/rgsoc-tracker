@@ -1,0 +1,31 @@
+Day-4 (04 July, 2016)
+
+### Completed the following tasks:
+
+* Added test cases for round
+* Improved modulo method for Float
+* Added Unary Operators for Bool including pos, neg, invert.
+
+Added test cases for float to test round half to even feature. This resulted
+in breaking the modulo function. Fixed the Float part of the modulo function.
+The Int part shows precision error due to implementation. However, same code
+copied in Int and Float. So, need to modify both.
+Implemented the unary operators for Bool.
+
+### New interesting thing learnt today:
+
+* Round can be implemented in many ways. Python uses the round half to even
+behaviour. i.e. round(4.5) = 4. round(3.5) = 4
+* Modulo is implemented differently for different language. Different language
+creators could not decide whether the final answer should have the sign of the
+dividend or the divisor, so every language makes it's own specification. Java
+uses the sign of the dividend. i.e 4.5 % -4.5 = 0.0. Python uses the sign of the
+divisor. i.e. 4. 5 % -4.5 = -0.0
+
+Tomorrow, we'll be tackling the precision error and the methods for List. A lot
+of tests for that seem to not have been implemented yet. Would look into that
+as well.
+
+Had good interaction with coaches. Learnt a few things. All in all, a good day!
+
+- Team l1ghtsab3r
